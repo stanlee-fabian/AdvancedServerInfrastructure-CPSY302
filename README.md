@@ -14,3 +14,12 @@ Key Highlights:
 - Simulated external client testing: verified VPN connectivity, web accessibility, and remote server management via RSAT and SSH
 
 This project demonstrates my learned competencies and capability in enterprise network design, virtualization, and secure system administration using real-world tools and practices.
+
+---
+
+### 📚 Licensing & Academic Integrity
+
+This project was created for coursework at the Southern Alberta Institute of Technology (SAIT) and is intended for educational demonstration only.  
+**Do not copy, redistribute, or use without written permission.**
+
+© 2024 Southern Alberta Institute of Technology. All rights reserved.
